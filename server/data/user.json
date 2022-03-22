@@ -1,0 +1,34 @@
+[
+      {
+        "username": "bunga",
+        "email": "bunga@gmail.com",
+        "password": "12345",
+        "role": "admin",
+        "phoneNumber": "088888888",
+        "address": "Bali"
+      },
+      {
+        "username": "mawar",
+        "email": "mawar@gmail.com",
+        "password": "mawar",
+        "role": "admin",
+        "phoneNumber": "088888899",
+        "address": "Jakarta"
+      },
+      {
+        "username": "coba",
+        "email": "coba1@mail.com",
+        "password": "coba1",
+        "role": "admin",
+        "phoneNumber": "0988888888",
+        "address": "Bandung"
+      },
+      {        
+        "username": "coba2",
+        "email": "coba2@mail.com",
+        "password": "coba2",
+        "role": "user",
+        "phoneNumber": "0988888887",
+        "address": "Bandung"
+      }
+    ]
